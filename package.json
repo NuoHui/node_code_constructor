@@ -1,0 +1,14 @@
+{
+  "name": "node_code_constructor",
+  "version": "1.0.0",
+  "description": "project constructor of Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "xyz",
+  "license": "MIT"
+}
